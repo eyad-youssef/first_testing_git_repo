@@ -7,3 +7,6 @@ and this is the first line to be added to the first branch
 
 this is the second line after pushing in cloud  
 this is the concurrently change made by another tester 
+
+
+change made in the gui mode
